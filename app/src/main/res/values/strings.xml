@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab6</string>
+    <string name="channel_name">МойКанал</string>
+    <string name="channel_description">Описание моего канала</string>
+    <string name="notification_title">Новое уведомление</string>
+    <string name="notification_text">Нажмите на уведомление для перехода в приложение</string>
+    <string name="toast_text">Всплывающее уведомление!</string>
+
+</resources>
